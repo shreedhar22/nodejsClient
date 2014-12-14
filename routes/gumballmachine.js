@@ -1,7 +1,7 @@
 var restClient = require('node-rest-client').Client;
 
 var client = new restClient();
-var host = "http://gumballnodejsserver-grailsapp.rhcloud.com/";
+var host = "http://nodejsserver-grailsapp.rhcloud.com/";
 
 
 // GET call for loading GumballMachine details
